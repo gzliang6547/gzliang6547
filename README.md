@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gzliang6547
 - 👀 I’m interested in programming (C,Java,PHP)
-- 🌱 I’m currently learning R programming language
+- 🌱 I’m currently learning Python programming language
 - 📫 How to reach me:
 - Email : liang3522@gmail.com
 

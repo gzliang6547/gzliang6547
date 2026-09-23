@@ -6,8 +6,8 @@
 ### 🧑‍💻 About me
 
 - 💼 I build a full-stack SaaS product: a .NET backend, a React web app and a React Native mobile app
-- 🧱 I started programming with **C**, **Java** and **PHP**
-- 🌱 I'm currently learning **Python**
+- 🧱 I started programming with **C**, **Java**, **Python**, **ASP.NET** and **PHP**
+- 🌱 I'm currently working on AI features: LLM-powered reply drafting and automation
 - 🤝 I'm open to collaborating on side projects
 
 ### 🛠️ Tech stack
